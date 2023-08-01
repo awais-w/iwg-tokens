@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    ".base-colors/base-colors",
+    "multibrand/regus",
+    "multibrand/hq",
+    "multibrand/signature",
+    "multibrand/iwg"
+  ]
+}

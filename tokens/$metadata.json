@@ -1,0 +1,7 @@
+{
+  "tokenSetOrder": [
+    "hq/hq-default",
+    "regus/regus-default",
+    "iwg/iwg-default"
+  ]
+}
